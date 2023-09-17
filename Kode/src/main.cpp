@@ -1,5 +1,6 @@
 #include "Arduino.h"
 #include "Encoder.h"
+#include <MotorControl.h>
 
 Encoder encoder;
 
